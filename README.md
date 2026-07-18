@@ -2,7 +2,7 @@
 
 Recommended repository: `haikyo-archive-map`
 
-Primary domain candidate: `haikyoarchive.jp`
+Confirmed domain: `haikyoarchive.jp`
 
 Other domain candidates:
 - haikyoarchive.jp
